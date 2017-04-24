@@ -1,0 +1,5 @@
+Calculator ---> app ---> src ---> main ---> java ---> com ---> test ---> jmpugh22---> simplecalculator ---> THERE! is the path to .java files
+
+SimpleCalculator ---> app ---> src ---> main ---> res ---> THERE is how to find the .xml files
+
+to run, download everything given as well as android studio. open this project folder in android studio and it should run given that you click the run button
